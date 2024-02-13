@@ -12,6 +12,3 @@ Explorations
 <hr>
 <h2>Expanding Horizons</h2>
 My recent endeavors include exploring the broader world of development. I've been delving into new programming languages such as C# and C, aiming to expand my technical expertise beyond just web development.
-<hr>
-<h2>Contact</h2>
-You can reach out to me at shroudrowdy0203@gmail.com. I'm open to collaborations, learning opportunities, or simply connecting with fellow programming enthusiasts.
