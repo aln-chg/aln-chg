@@ -11,4 +11,4 @@ Web Design Projects: I have also worked on several small-scale web design projec
 Explorations
 <hr>
 <h2>Expanding Horizons</h2>
-My recent endeavors include exploring the broader world of development. I've been delving into new programming languages such as C# and C, aiming to expand my technical expertise beyond just web development.
+My recent endeavors include exploring the broader world of development. I've been delving into new programming languages, aiming to expand my technical expertise beyond just web development.
