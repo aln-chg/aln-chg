@@ -1,7 +1,7 @@
 <h1>About Me</h1>
 <hr>
 <h2>Me</h2> 
-My name is Tzu Yi but just call me Alan. I am currently living in Minnesota, USA, and I'm a high school student. My main area of focus in programming is web development, where I enjoy experimenting and honing my skills. 
+My name Alan. I am currently living in Minnesota, USA, and I'm a high school student. My main area of focus in programming is web development, where I enjoy experimenting and honing my skills. 
 While I enjoy doing web development, I still play around and try out different programming languages
 <hr>
 <h2>Projects</h2>
